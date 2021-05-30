@@ -1,0 +1,4 @@
+node_modules/
+dev.env
+finalData.json
+coords.txt

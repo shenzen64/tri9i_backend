@@ -1,0 +1,91 @@
+AIMAC (Mohammed VI International Academy of Civil Aviation)	Aeroport Mohammed V	Nouasser
+Route d'Eljadida	Autoroute Settat/Casablanca	
+Avenue Ibnsina	B.P. 765	Agdal	Rabat	Maroc	
+Km 3	Route de Casablanca	BP 38	Gueliz	Marrakech  
+Casablanca, EMSI Centre	154, rue El Bakri	Casablanca	
+Casablanca, EMSI Maarif	217, boulevard Bir Anzarane	Casablanca	
+Marrakech	171 bis, avenue Mansour Eddahbi-Gueliz	Marrakech	
+Rabat	49, rue Patrice Lumumba	
+km 10, route Haj Kaddour	BP S/40	Meknes	Maroc	
+BP 511	11000 Tabriquet-Sale	
+Avenue Hadj Ahmed Cherkaoui	BP 753	Agdal	Rabat	
+Aeroport d'Anfa	Casablanca	
+BP 575	Avenue Abdelkrim Khattabi, Gueliz	Marrakech	
+BP 1136	Agadir	
+Universite Sidi Mohammed Ben Abdellah/ecole Superieure de Technologie	Route d'Imouzzer	BP 2427	Fes	
+Marjane II	BP 4024	Beni M'hamed	Meknes Ismaelia	
+BP 669	Hay El Qods	Complexe universitaire Oujda	
+Route Sidi Bouzid	BP 63	Safi	
+ENSA Tanger	Route Ziaten, km 10	BP 1818	
+Route d'El Jadida, km 7	BP 8118 Oasis	Casablanca	
+Avenue Mohammed Ben Abdallah Regragui	Madinat Al Irfane	Rabat	
+4, avenue Allal Ben Abdellah, Imm Abbou	Fes	
+BEFRA	Marrakech 4000	
+Boulevard Sour Jdid	Casablanca	
+Avenue Allal El Fassi, cite Al Irfane	BP 6204 Rabat-Instituts	10100 Rabat	Maroc	
+Route d'El Jadida, km 8	BP 7731-Oulfa	Casablanca	Maroc	
+BP 33	Agadir	
+Route d'El Jadida, km 7	BP 8012	Oasis	Casablanca	
+Km 9, Route d'Agadir	Essaouira Aljadida	BP 383	Essaouira	Maroc	
+2, square Bonnat	Boulevard du 9 Avril	Quartier Palmier	Casablanca	
+Route d'Imouzzer	BP 2427	Fes	
+Rue d'Agouray, km 5	Toulal	Meknes	
+BP 473	Complexe universitaire	Al Qods Oujda 60000	
+Route Dar Si-Aessa	BP 89	46000 Safi	
+Avenue Prince Heritier Sidi Mohammed	BP 227	Sale Medina	
+BP 6202-Instituts	10101 Rabat	
+IIHEM, School of Engineering	Avenue Imam Malik, km 4.2	Route des Zaers	Souissi	Rabat	
+Rue El Machaer El Haram	Issil	40000 Menara	BP 2402, Marrakech	
+2, avenue Allal el Fasse	Madinat Al Irfane	Rabat	
+BP 6217	Madinat Al Irfane	10100 Rabat	
+10, Rue Al Yamama	Rabat	
+3, rue Brahim Ibnou Adham	Maerif	Casablanca	
+94, Rue Allal Ben Abdellah	Casablanca	
+15, Barii Debbass	Avenue Constantinople	Mers Sultan, Casablanca	
+51, rue du 16 novembre	BP 8977	Agdal	Rabat	
+2, avenue Moulay Youssef	Rabat	
+201, boulevard de Bordeaux	Casablanca	
+21, rue Abou Abdallah Nafii	Casablanca	
+1, avenue de la Victoire	BP 165	10000 Rabat	
+Hay Essalam	BP 37	Agadir	
+Universite Chouaeb Doukkali	20000 El Jadida	BP 22052	 
+Universite Ibn Tofael	Rue Ahmed Boughaba, ne104	BP 242	Kenitra - 14 000	 
+Avenue Allal El Fassi	BP 3748, Amerchichbr  Marrakech	
+Complexe universitaire	BP 658	Oujda principale 60000	
+Km 3, route de Casa	BP 658	Settat	
+BP 1255	Tanger	Maroc	
+55, rue Jaber Ben Hayane	Casablanca	
+8, Oued Souss	Agdal	Rabat	
+32, Rue El Bakri	Casablanca	
+Tanger	Suptem Tanger	6, rue Mohamed Tazi	Marshan 90000	
+Safi	Takabrout Route Had Hrara	
+Casablanca	Sidi Maerouf	Casablanca	
+Fes	Route Immouzer, km 3	Fes	
+Marrakech	Boulevard Mansour Eddahbi	Marrakech	
+Rabat	32, rue Moulay Ali Cherif	Rabat	
+Centre de Fes	1, rue Jaber Ansari	Bouremmana	Fes	Maroc	
+Centre de Rabat	67, rue Jaefar Essadik	Haut Agdal	Rabat	
+Rue Abi Hamid Al Ghazali Ne06 VN	Fes - Maroc	
+66, boulevard de l'Atlantide	Polo, Casablanca	
+Avenue Allal Fassi, rue Abou Obaeda	BP 1514	Hay Mohammadi	Marrakech	
+Casablanca	HEM Casablanca	Boulevard El Qods	Quartier Californie	Casablanca	
+Rabat	Intersection Zaers- Akrache	Lotissement Mouline Ne3	Souissi	
+Marrakech	HEM Marrakech	BP 2426	Lot les Riads de leAtlas	Mbarka III - Agdal	
+Tanger	HEM Tanger	La Baie de Tanger, lot ne88	
+IIHEM, School of Business Administration	Avenue Imam Malik, km 4.2	Route des Zaers	Souissi	Rabat	
+Rue Chouia (angle du boulevard Mohammed V)	Casablanca	
+2, avenue de la Victoire	BP 165	Rabat	
+km 9, route de Nouasseur	BP 8114	Oasis	Casablanca	
+47, boulevard Pasteur	Tanger	
+23, rue Hafid Ibrahim	Quartier Gauthier	Casablanca	
+BP 805	Boulevard Hassan 1er	Agadir	
+BP 6205	Madinat Al Irfane	Rabat	
+Casablanca Belvedere	Place de la Gare Voyageurs	20300 Casablanca	
+Casablanca Maarif	277, boulevard Bir Anzarane	20100 Casablanca	
+Casablanca, Avenue du 2 Mars	41, avenue du 2 Mars	Casablanca	
+Rabat	27, rue Oqba-Agdal	10000 Rabat	
+Marrakech	IGA-Hivernage	Rue Ibn Habousse	Marrakech
+Mohammedia	13, boulevard Hassan II	Mohammedia	
+Casablanca	53, avenue Allal Ben Abdellah	Casablanca	
+High Tech Agdal	34, rue Jabal Al Ayachi	Agdal - Rabat	
+High Tech Ryad-Souissi	Campus Residentiel High Tech	Avenue Bani Wrayine, rue Chraga Souissi	Rabat
