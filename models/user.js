@@ -11,7 +11,7 @@ return match && str === match[0];
 }
 
 function validateCIN(cin){
-const re = /^[A-Z][A-Z][1-9]+/i
+const re = /^[A-Z][A-Z][0-9]+/i
 return re.test(cin) && cin.length <9 && cin.length > 4
 }
 
