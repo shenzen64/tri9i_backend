@@ -33,13 +33,6 @@ app.use(trajetRouter);
 app.use(userRouter);
 app.use(schoolRouter);
 
-// app.get('/hello', async (req,res)=>{
-//   try {
-//     res.send({s:'Hello World'})
-//   } catch (error) {
-//     console.log('error')
-//   }
-// })
 
 // JUST FOR TESTING
 // app.get('/init',async (req,res)=>{

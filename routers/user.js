@@ -6,6 +6,14 @@ const requireLogin = require("../middlewar/requireLogin");
 const moment = require("moment");
 
 
+royter.get('/hello', async (req,res)=>{
+  try {
+    res.send({s:'Hello World'})
+  } catch (error) {
+    console.log('error')
+  }
+})
+
 router.get("/user/trajets", requireLogin, async (req, res) => {
   try {
     const trajets = await User.findById(req.user._id)
