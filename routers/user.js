@@ -3,7 +3,7 @@ const router = express.Router();
 const bcrypt = require("bcryptjs");
 const User = require("../models/user");
 const requireLogin = require("../middlewar/requireLogin");
-const moment = require("moment");
+// const moment = require("moment");
 
 
 royter.get('/hello', async (req,res)=>{
