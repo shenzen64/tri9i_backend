@@ -6,7 +6,7 @@ const requireLogin = require("../middlewar/requireLogin");
 // const moment = require("moment");
 
 
-royter.get('/hello', async (req,res)=>{
+router.get('/hello', async (req,res)=>{
   try {
     res.send({s:'Hello World'})
   } catch (error) {
