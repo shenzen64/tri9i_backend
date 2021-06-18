@@ -17,15 +17,15 @@ const requireLogin = require("../middlewar/requireLogin");
 router.get("/user/trajets", requireLogin, async (req, res) => {
   try {
     const trajets = await User.findById(req.user._id)
-    .select('trajets')
-    .populate({
-        path : 'trajets',
+      .select('trajets')
+      .populate({
+        path: 'trajets',
         select: '_id adresseDepart destination',
         populate: {
-            path :'destination',
-            select: '_id surnom'
+          path: 'destination',
+          select: '_id surnom'
         }
-    })
+      })
 
     res.send(trajets);
   } catch (error) {
@@ -38,8 +38,8 @@ router.get("/user/trajets", requireLogin, async (req, res) => {
 router.get("/userInfo", requireLogin, async (req, res) => {
   try {
     const user = await User.findById(req.user._id)
-    .select('name phone email cin')
-    
+      .select('name phone email cin')
+
     res.send(user);
 
   } catch (error) {
@@ -50,7 +50,7 @@ router.get("/userInfo", requireLogin, async (req, res) => {
 });
 
 router.put("/updateInfo", requireLogin, async (req, res) => {
-  const allowedUpdates = ["name", "cin","phone", "email"];
+  const allowedUpdates = ["name", "cin", "phone", "email"];
   const updates = Object.keys(req.body);
 
   const isAllowed = updates.every((update) => allowedUpdates.includes(update));
@@ -70,16 +70,16 @@ router.put("/updateInfo", requireLogin, async (req, res) => {
 
 router.put("/updatePassword", requireLogin, async (req, res) => {
 
-   try {
+  try {
     const user = req.user;
-    const { oldPassword,newPassword } = req.body
+    const { oldPassword, newPassword } = req.body
     const isMatch = await bcrypt.compare(oldPassword, user.password);
-    
-    if(isMatch){
+
+    if (isMatch) {
       user["password"] = newPassword
     } else {
       return res.status(400).json({
-        error : "Invalid Password"
+        error: "Invalid Password"
       })
     }
     await user.save();
